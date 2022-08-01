@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Artem Nevodnichyi</h1>
+<h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">Entusiastic developer from Ukraine.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gazaris&label=Profile%20views&color=0e75b6&style=flat" alt="gazaris" /> </p>
